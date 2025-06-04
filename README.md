@@ -31,7 +31,7 @@
 
 ### 安装步骤
 ```bash
-git clone https://github.com/yourrepo/ASimpleBookManager.git
+git clone https://github.com/luminous-ChenXi/ASimpleBookManager.git
 cd ASimpleBookManager
 mvn clean install
 ```
