@@ -5,12 +5,13 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![GitHub Release](https://img.shields.io/github/v/release/luminous-ChenXi/ASimpleBookManager)](https://github.com/luminous-ChenXi/ASimpleBookManager/releases)
 
+## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=luminous-ChenXi/ASimpleBookManager&type=Date)](https://star-history.com/#luminous-ChenXi/ASimpleBookManager&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=luminous-ChenXi/ASimpleBookManager&type=Date)](https://www.star-history.com/#luminous-ChenXi/ASimpleBookManager&Date)
 
 ## 项目概述
 大学课上开小差时自己写的一些东西，也就那些学生的基本工作(为了交作业、为了玩)😊；
-项目开源免费，随便拉取~
+项目开源免费，需要的可以拉取~
 
 ## 主要功能
 - 添加新图书信息
