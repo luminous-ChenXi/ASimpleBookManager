@@ -7,13 +7,13 @@ public class BookManager {
     // 数据库连接配置（请根据实际环境修改）
     private static final String DB_URL = "jdbc:mysql://localhost:3306/library?useSSL=false&serverTimezone=UTC";
     private static final String USER = "root";
-    private static final String PASSWORD = "123456"; // 确认密码是否正确
+    private static final String PASSWORD = "YOUR_PASSWORD"; // 确认密码是否正确
     private Connection conn; // 数据库连接对象
 
     public BookManager() {
         try {
             conn = DriverManager.getConnection(DB_URL, USER, PASSWORD);
-            System.out.println("数据库连接成功！");
+            System.out.println("数据库连接成功！本项目来自https://github.com/luminous-ChenXi/ASimpleBookManager");
         } catch (SQLException e) {
             System.out.println("数据库连接失败：" + e.getMessage());
             // 连接失败时抛出异常，阻止程序继续执行
